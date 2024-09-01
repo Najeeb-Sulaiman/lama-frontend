@@ -166,6 +166,7 @@ if choice == "Team Metrics":
         # fig = px.bar(data, x='team', y='goals_conceded', title='Goal conceded by Team')
         # st.plotly_chart(fig)
 
+
 # Visualization for Technical Metrics
 if choice == "Technical Metrics":
     st.header("Technical Metrics Visualization")
